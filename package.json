@@ -2,9 +2,9 @@
   "name": "tmoney",
   "version": "1.0.0",
   "description": "Module NodeJs pour parser des informations à partir d'un SMS TMONEY",
-  "main": "tmoney.js",
+  "main": "./tmoney.js",
   "scripts": {
-    "test": "node example.js"
+    "start": "node example.js"
   },
   "repository": {
     "type": "git",

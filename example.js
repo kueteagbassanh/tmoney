@@ -1,4 +1,4 @@
-var TMoney = require('./tymoney_parser.js'); // Chargement du module TMoney
+var TMoney = require('tmoney'); // Chargement du module TMoney
 var tmoney = new TMoney();
 
 //Exemple d'un SMS reçu apres un transfert compte vers compte via TMoney
