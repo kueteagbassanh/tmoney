@@ -1,0 +1,26 @@
+{
+  "name": "tmoney",
+  "version": "1.0.0",
+  "description": "Module NodeJs pour parser des informations à partir d'un SMS TMONEY",
+  "main": "tmoney.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikbaby92/tmoney.git"
+  },
+  "keywords": [
+    "tymoney",
+    "tmoney",
+    "money",
+    "togocel",
+    "moov"
+  ],
+  "author": "Nik Baby Afrikavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikbaby92/tmoney/issues"
+  },
+  "homepage": "https://github.com/nikbaby92/tmoney#readme"
+}
